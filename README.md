@@ -1,0 +1,1 @@
+# Query_Rangking_dan_Rata-Rata_Siswa_Tertinggi_nomor_urut_2
