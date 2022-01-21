@@ -27,7 +27,7 @@ ORDER BY NILAI_RATA_RATA DESC LIMIT 1 OFFSET 1
 
 
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/taufikn10/Query_Rangking_dan_Rata-Rata_Siswa_Tertinggi_nomor_urut_2/blob/main/doc/Nilai%20Rata%20Rata.png" /> 
+    <img width="100%" src="https://github.com/taufikn10/Query_Rangking_dan_Rata-Rata_Siswa_Tertinggi_nomor_urut_2/blob/main/doc/Rata-Rata%20Siswa%20Tertinggi%20nomor%20urut%202.png" /> 
 </p>
 
 
