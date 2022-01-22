@@ -10,7 +10,7 @@ Tabel Database
     <img width="40%" src="https://github.com/taufikn10/Query_Rangking_dan_Rata-Rata_Siswa_Tertinggi_nomor_urut_2/blob/main/doc/Tabel%20Nilai.png" />
 </p>
 
-### Rata-Rata Siswa Tertinggi
+### Rangking Siswa Tertinggi
 SELECT a.ID_SISWA, a.NAMA, <br>
 		SUM(c.NILAI) AS JUMLAH, <br>
 		AVG(c.NILAI) AS NILAI_RATA_RATA, <br>
